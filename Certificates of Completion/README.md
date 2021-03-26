@@ -1,1 +1,0 @@
-# Certificates of Completion
