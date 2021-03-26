@@ -10,11 +10,21 @@
 - Build and differentiate between one-to-many and many-to-many relationships within PostgreSQL.
 - Recall key people, organizations, and innovations that were instrumental to building the SQL standard
 
-SKILLS YOU WILL GAIN
+# SKILLS YOU WILL GAIN
 * Json
 * Database (DBMS)
 * Natural Language Processing
 * SQL
+
+# 4 Courses in this Specialization
+
+### Database Design and Basic SQL in PostgreSQL
+
+### DATABASE DESIGN AND BASIC SQL IN POSTGRESQLSHOW ALL
+
+### INTERMEDIATE POSTGRESQLSHOW ALL
+
+### Database Architecture, Scale, and NoSQL with Elasticsearch
 
 
 # About this Specialization
@@ -22,6 +32,7 @@ Across these four courses, you’ll learn how to use the PostgreSQL database and
 
 # Applied Learning Project
 This course series utilizes a custom autograding environment for an authentic set of graded and practice assignments, including: creating and manipulating tables, designing data models, constructing advanced queries, techniques for working with text in databases, including regular expressions, and more.
+
 
 # Instructor
 - Charles Russell Severance
